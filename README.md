@@ -10,7 +10,9 @@ Visual place recognition (VPR)/Loop closure detection (LCD) papers. This project
 ## Paper List
 Index|Title                                                         |Year |Comments
 -----|:-------------------------------------------------------------|:----|:--------
-2    |
+4    |CNN Features Off-the-Shelf: An Astounding Baseline for Recognition   |2014  |
+3    |Robust visual robot localization across seasons using network flows  |2014  |
+2    |Condition-invariant, top-down visual place recognition        |2014 |
 1    |[Convolutional Neural Network-based Place Recognition](https://arxiv.org/abs/1411.1509) |2014 |The first CNN-based VPR method
 
 
