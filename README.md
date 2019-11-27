@@ -5,4 +5,49 @@ Visual place recognition (VPR)/Loop closure detection (LCD) papers. This project
 
 ![VPR_papers](https://github.com/zxw1992/Place-Recognition-Paper-List/blob/master/figures/pr_papers.png)
 
+
+
+## Paper List
+Index|Title                                                         |Year |Comments
+-----|:-------------------------------------------------------------|:----|:--------
+2    |
+1    |[Convolutional Neural Network-based Place Recognition](https://arxiv.org/abs/1411.1509) |2014 |The first CNN-based VPR method
+
+
+
+
+
+## According to Topics
+### CNN-based
+
+
+### Long-term
+
+
+### Across-seasons
+
+
+### Auto-Encoder-Based
+
+
+### Semantic place recognitionar
+
+
+### Multi modality feature fusion/feature selection
+
+
+### Generative adversial networks (GANs)
+
+### LiDAR-based
+
+
+## Awesome VPR Datasets
+
+
+
+
+
+
 ## To be continued ...
+
+
